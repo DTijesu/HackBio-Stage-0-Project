@@ -97,3 +97,4 @@ PROJECT 2
   590  #With this, I've come to the end of the codes for project 2.
   591  history
   592  history > favour_stage0.sh
+https://www.linkedin.com/posts/comfort-favour-balogun-01196019a_teamabrlovelace-hackbio-biocoding-activity-7367614677448552449-4HIv?utm_source=share&utm_medium=member_android&rcm=ACoAAC7Fcg0BQdjCiMyMuglfPhfBLZy_UsU-4dE
